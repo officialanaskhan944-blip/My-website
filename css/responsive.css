@@ -1,0 +1,79 @@
+/* ==========================================================================
+   Alpine Ascents — Responsive Styles
+   ========================================================================== */
+
+/* ============ Large desktops ============ */
+@media (min-width: 1400px) {
+  .container { max-width: 1320px; }
+}
+
+/* ============ Tablets & small laptops ============ */
+@media (max-width: 991.98px) {
+  .hero-title { font-size: 2.8rem; }
+  .section-title { font-size: 2.1rem; }
+  .section { padding: 70px 0; }
+
+  .gallery-grid { columns: 2; }
+
+  /* Mobile nav menu styling */
+  .navbar-collapse {
+    background: rgba(15, 37, 29, 0.98);
+    margin-top: 12px;
+    padding: 16px;
+    border-radius: 12px;
+    max-height: 80vh;
+    overflow-y: auto;
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+  .nav-link { padding: 0.7rem 0.5rem !important; font-size: 0.9rem; }
+  .nav-link::after { display: none; }
+  .nav-link.active { background: rgba(232,163,74,0.15); border-radius: 6px; }
+  .visitor-counter { margin: 12px 0 6px 4px; }
+}
+
+/* ============ Mobile ============ */
+@media (max-width: 767.98px) {
+  .hero { min-height: 78vh; padding: 100px 16px 60px; }
+  .hero-title { font-size: 2.1rem; }
+  .hero-subtitle { font-size: 1rem; }
+  .hero-eyebrow { font-size: 0.7rem; letter-spacing: 2px; }
+
+  .section-title { font-size: 1.8rem; }
+  .section-title-sm { font-size: 1.4rem; }
+  .section { padding: 56px 0; }
+
+  .gallery-grid { columns: 1; }
+
+  .timeline { padding-left: 34px; }
+  .timeline-dot { left: -34px; width: 16px; height: 16px; }
+
+  .records-toolbar { flex-direction: column; }
+  .records-toolbar .search-input, .filter-select { width: 100%; }
+  .global-search-box { flex-direction: column; }
+  .global-search-box .btn { width: 100%; }
+
+  .stat-value { font-size: 2rem; }
+
+  .map-container { height: 320px; }
+
+  .checklist-card { padding: 24px 18px; }
+
+  #back-to-top { bottom: 18px; right: 18px; width: 42px; height: 42px; }
+
+  .lightbox-prev { left: 10px; }
+  .lightbox-next { right: 10px; }
+}
+
+/* ============ Small mobile ============ */
+@media (max-width: 380px) {
+  .hero-title { font-size: 1.7rem; }
+  .brand-text { font-size: 1.1rem; }
+  .hero-buttons { flex-direction: column; }
+  .btn-hero { width: 100%; }
+}
+
+/* ============ Print ============ */
+@media print {
+  .main-navbar, .ticker-bar, #back-to-top, .footer-social, .newsletter-form { display: none !important; }
+  .section { padding: 20px 0; }
+}
