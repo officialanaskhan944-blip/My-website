@@ -7,7 +7,7 @@
       "date": "2024-03-15",
       "author": "Alpine Ascents Research Team",
       "summary": "Breakthrough oxygen systems weighing 40% less are transforming high-altitude expeditions.",
-      "image": "images/developments/oxygen.png",
+      "image": "developments/oxygen.png",
       "alt": "Modern oxygen mask system"
     },
     {
@@ -17,7 +17,7 @@
       "date": "2024-02-28",
       "author": "Dr. Elena Kovács",
       "summary": "Machine learning models now predict avalanche risk with unprecedented precision.",
-      "image": "images/developments/avalanche.png",
+      "image": "developments/avalanche.png",
       "alt": "Avalanche forecasting technology"
     },
     {
@@ -27,7 +27,7 @@
       "date": "2024-01-20",
       "author": "M. Rahman",
       "summary": "New initiatives aim to make high-altitude camps zero-waste and eco-friendly.",
-      "image": "images/developments/sustainable.png",
+      "image": "developments/sustainable.png",
       "alt": "Clean mountain base camp"
     },
     {
@@ -37,7 +37,7 @@
       "date": "2023-12-10",
       "author": "Tech Summit Journal",
       "summary": "Reliable communication now reaches the world's highest base camps.",
-      "image": "images/developments/tower 5g.png",
+      "image": "developments/tower 5g.png",
       "alt": "Communication tower in mountains"
     },
     {
@@ -47,7 +47,7 @@
       "date": "2023-11-05",
       "author": "Alpine Ascents Research Team",
       "summary": "New insulation offers -40°C protection at a fraction of the weight.",
-      "image": "images/developments/insulation.png",
+      "image": "developments/insulation.png",
       "alt": "Insulated mountaineering jacket"
     },
     {
@@ -57,7 +57,7 @@
       "date": "2023-10-18",
       "author": "RescueTech Europe",
       "summary": "Thermal drones are slashing rescue times in remote mountain terrain.",
-      "image": "images/developments/drones.png",
+      "image": "developments/drones.png",
       "alt": "Rescue drone over mountains"
     },
     {
@@ -67,7 +67,7 @@
       "date": "2023-09-22",
       "author": "M. Bennett",
       "summary": "A safer, more accessible route has been established on the killer mountain.",
-      "image": "images/developments/route.png",
+      "image": "developments/route.png",
       "alt": "Nanga Parbat climbing route"
     },
     {
@@ -77,7 +77,7 @@
       "date": "2023-08-30",
       "author": "GearLab Review",
       "summary": "Sensor-equipped crampons monitor ice conditions and climber fatigue.",
-      "image": "images/developments/crampons.png",
+      "image": "developments/crampons.png",
       "alt": "Smart crampons with sensors"
     },
     {
@@ -87,7 +87,7 @@
       "date": "2023-07-14",
       "author": "Global Climbing Network",
       "summary": "New programs introduce thousands of young people to the mountains.",
-      "image": "images/developments/youth.png",
+      "image": "developments/youth.png",
       "alt": "Young climbers training"
     },
     {
@@ -97,7 +97,7 @@
       "date": "2023-06-01",
       "author": "Alpine Ascents Research Team",
       "summary": "Off-grid solar relays provide continuous comms on the highest peaks.",
-      "image": "images/developments/solar.png",
+      "image": "developments/solar.png",
       "alt": "Solar relay station on mountain"
     }
   ]
