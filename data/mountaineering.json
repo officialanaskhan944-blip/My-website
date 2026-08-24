@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "title": "Alpine Ascents - Mountaineering Information",
+    "description": "Comprehensive mountaineering and climbing information portal.",
+    "version": "1.0.0"
+  },
+  "statistics": [
+    { "value": 14, "suffix": "", "label": "Eight-Thousanders", "icon": "fa-mountain" },
+    { "value": 5000, "suffix": "+", "label": "Mapped Routes", "icon": "fa-route" },
+    { "value": 200, "suffix": "+", "label": "Affiliated Clubs", "icon": "fa-users" },
+    { "value": 1953, "suffix": "", "label": "Everest First Ascent", "icon": "fa-flag" }
+  ],
+  "styles": [
+    { "name": "Hiking", "icon": "fa-person-hiking", "desc": "Day walks on well-defined trails at low to moderate altitude. Basic fitness and equipment required.", "difficulty": "Easy" },
+    { "name": "Trekking", "icon": "fa-signs-post", "desc": "Multi-day walking expeditions through mountains, often with porters and camping.", "difficulty": "Moderate" },
+    { "name": "Rock Climbing", "icon": "fa-mountain", "desc": "Climbing steep rock faces using hands, feet, ropes and protection.", "difficulty": "Moderate to Hard" },
+    { "name": "Alpine Climbing", "icon": "fa-mountain-sun", "desc": "Lightweight, fast climbing in high mountains combining rock, snow and ice.", "difficulty": "Hard" },
+    { "name": "Ice Climbing", "icon": "fa-snowflake", "desc": "Climbing frozen waterfalls and ice formations with ice axes and crampons.", "difficulty": "Hard" },
+    { "name": "Expedition Climbing", "icon": "fa-flag", "desc": "Large-scale climbs to the world's highest peaks, often lasting weeks.", "difficulty": "Extreme" },
+    { "name": "Traditional Climbing", "icon": "fa-shield-halved", "desc": "Placing removable protection while ascending, leaving the rock unaltered.", "difficulty": "Moderate to Hard" },
+    { "name": "Sport Climbing", "icon": "fa-bolt", "desc": "Climbing bolted routes with pre-installed protection, focusing on difficulty.", "difficulty": "Moderate" },
+    { "name": "Bouldering", "icon": "fa-table-cells", "desc": "Short, powerful climbs on small rocks without ropes, using crash pads.", "difficulty": "Moderate to Hard" },
+    { "name": "Mixed Climbing", "icon": "fa-icicles", "desc": "Combining rock and ice techniques with specialized tools and crampons.", "difficulty": "Very Hard" }
+  ],
+  "techniques": [
+    { "name": "Rope Management", "icon": "fa-circle-nodes", "desc": "Coiling, handling and managing ropes safely during climbs." },
+    { "name": "Belaying", "icon": "fa-anchor", "desc": "Controlling the rope to arrest a climber's fall using a belay device." },
+    { "name": "Knots & Hitches", "icon": "fa-link", "desc": "Figure-eight, clove hitch, prusik and other essential climbing knots." },
+    { "name": "Rappelling / Abseiling", "icon": "fa-arrow-down", "desc": "Controlled descent down a rope using friction devices." },
+    { "name": "Navigation", "icon": "fa-compass", "desc": "Map, compass and GPS navigation through mountain terrain." },
+    { "name": "Rock Climbing Techniques", "icon": "fa-hand-rock", "desc": "Footwork, handholds, jamming and crack climbing skills." },
+    { "name": "Ice Climbing Techniques", "icon": "fa-snowflake", "desc": "Swinging ice tools, front-pointing and placement of protection." },
+    { "name": "Snow Climbing", "icon": "fa-snowman", "desc": "Snow slopes, self-arrest, step-kicking and avalanche awareness." },
+    { "name": "Anchor Building", "icon": "fa-tree", "desc": "Creating secure anchors from natural and artificial protection." },
+    { "name": "Crevasse Rescue", "icon": "fa-person-falling", "desc": "Rescuing climbers from glacial crevasses using pulley systems." },
+    { "name": "Glacier Travel", "icon": "fa-grip-lines", "desc": "Roped team travel across glaciers with crevasse awareness." },
+    { "name": "Alpine Start & Pacing", "icon": "fa-stopwatch", "desc": "Early starts, energy conservation and altitude pacing." }
+  ],
+  "sheltering": [
+    { "name": "Mountain Tents", "icon": "fa-campground", "desc": "Four-season tents engineered for high winds, snow and extreme cold." },
+    { "name": "Mountain Huts", "icon": "fa-house", "desc": "Staffed and unstaffed shelters along popular routes offering rest." },
+    { "name": "Bivouac (Bivy)", "icon": "fa-bed", "desc": "Minimal overnight shelter on the mountain without a tent." },
+    { "name": "Snow Cave", "icon": "fa-snowflake", "desc": "Shelter dug into deep snow for insulation and wind protection." },
+    { "name": "Igloo & Snow Trench", "icon": "fa-igloo", "desc": "Structures built from compacted snow blocks or trenches." },
+    { "name": "Emergency Shelters", "icon": "fa-shelter", "desc": "Lightweight bivy sacks and bothy bags for emergencies." },
+    { "name": "Base Camp", "icon": "fa-flag", "desc": "Main expedition camp at the foot of the mountain." },
+    { "name": "High / Advance Camps", "icon": "fa-arrow-up", "desc": "Intermediate camps at higher altitudes for acclimatization." }
+  ],
+  "hazards": [
+    { "name": "Avalanche", "icon": "fa-snowplow", "risk": "High", "prevention": "Check avalanche forecasts, avoid steep slopes after heavy snow, carry beacons and probes.", "desc": "Rapid snow slides that can bury climbers under tonnes of snow." },
+    { "name": "Rockfall", "icon": "fa-mountain", "risk": "Medium", "prevention": "Wear helmets, climb early before thaw, avoid loose rock bands.", "desc": "Falling rocks dislodged by weather, climbers or wildlife." },
+    { "name": "Altitude Sickness", "icon": "fa-lungs", "risk": "High", "prevention": "Ascend gradually, acclimatize, stay hydrated, descend if symptoms worsen.", "desc": "AMS, HAPE and HACE caused by low oxygen at altitude." },
+    { "name": "Hypothermia", "icon": "fa-temperature-low", "risk": "Medium", "prevention": "Layer clothing, stay dry, eat regularly, watch for shivering.", "desc": "Dangerous drop in core body temperature." },
+    { "name": "Frostbite", "icon": "fa-snowman", "risk": "Medium", "prevention": "Protect extremities, keep warm, monitor exposed skin.", "desc": "Freezing of skin and tissues in extreme cold." },
+    { "name": "Extreme Weather", "icon": "fa-cloud-bolt", "risk": "High", "prevention": "Check forecasts, carry storm gear, descend before storms hit.", "desc": "Sudden storms with high winds and whiteout conditions." },
+    { "name": "Lightning", "icon": "fa-bolt", "risk": "Medium", "prevention": "Avoid ridges and summits during storms, seek lower ground.", "desc": "Electrical strikes especially dangerous on exposed ridges." },
+    { "name": "Crevasses", "icon": "fa-person-falling", "risk": "Medium", "prevention": "Rope up on glaciers, probe snow bridges, learn rescue.", "desc": "Hidden cracks in glaciers that can swallow climbers." },
+    { "name": "Falls", "icon": "fa-arrow-down", "risk": "High", "prevention": "Use ropes and protection, check anchors, climb within ability.", "desc": "The most common cause of mountaineering accidents." },
+    { "name": "Exhaustion", "icon": "fa-battery-quarter", "risk": "Medium", "prevention": "Pace yourself, rest regularly, eat high-energy food.", "desc": "Physical and mental fatigue reducing coordination and judgment." },
+    { "name": "Dehydration", "icon": "fa-droplet-slash", "risk": "Medium", "prevention": "Drink 3-4 litres daily, monitor urine color, carry purification.", "desc": "Fluid loss increased by altitude and respiration in dry air." }
+  ],
+  "equipment": [
+    { "name": "Climbing Helmet", "category": "Protection", "icon": "fa-hard-hat", "desc": "Protects head from rockfall and impacts." },
+    { "name": "Climbing Harness", "category": "Protection", "icon": "fa-user-shield", "desc": "Waist and leg straps connecting climber to rope." },
+    { "name": "Rope", "category": "Protection", "icon": "fa-circle-nodes", "desc": "Dynamic rope to absorb fall energy." },
+    { "name": "Carabiners", "category": "Hardware", "icon": "fa-link", "desc": "Metal loops connecting rope to protection." },
+    { "name": "Ice Axe", "category": "Tools", "icon": "fa-axe", "desc": "Multi-purpose tool for ice, snow and self-arrest." },
+    { "name": "Crampons", "category": "Tools", "icon": "fa-shoe-prints", "desc": "Metal spikes strapped to boots for ice traction." },
+    { "name": "Mountaineering Boots", "category": "Clothing", "icon": "fa-shoe-prints", "desc": "Insulated, stiff-soled boots for snow and ice." },
+    { "name": "Backpack", "category": "Equipment", "icon": "fa-bag-shopping", "desc": "Carries gear, food and water on the climb." },
+    { "name": "Tent", "category": "Shelter", "icon": "fa-campground", "desc": "Four-season shelter for high camps." },
+    { "name": "Sleeping Bag", "category": "Shelter", "icon": "fa-bed", "desc": "Insulated bag rated for extreme cold." },
+    { "name": "GPS & Compass", "category": "Navigation", "icon": "fa-compass", "desc": "Electronic and magnetic navigation tools." },
+    { "name": "First-Aid Kit", "category": "Safety", "icon": "fa-briefcase-medical", "desc": "Emergency medical supplies for injuries." }
+  ],
+  "guidelines": [
+    { "phase": "Preparation", "items": ["Research the route and conditions", "Build physical fitness and endurance", "Check gear and practice techniques", "Plan food, water and fuel requirements", "Obtain permits and inform someone of your itinerary"] },
+    { "phase": "Climbing Safety", "items": ["Always climb with a partner", "Use ropes and protection appropriately", "Check weather forecasts before starting", "Turn back when conditions deteriorate", "Communicate clearly within your team"] },
+    { "phase": "Emergency Procedures", "items": ["Stay calm and assess the situation", "Administer first aid immediately", "Signal for help using whistle or radio", "Evacuate or descend if safe to do so", "Contact mountain rescue with your coordinates"] },
+    { "phase": "Altitude Acclimatization", "items": ["Climb high, sleep low", "Gain no more than 300-500m sleeping altitude per day", "Drink plenty of water", "Recognize AMS symptoms early", "Descend immediately if symptoms worsen"] }
+  ],
+  "organizations_intro": "A network of mountaineering federations, clubs and agencies that support climbers worldwide with guidance, permits and training."
+}

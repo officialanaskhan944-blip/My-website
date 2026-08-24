@@ -1,0 +1,104 @@
+{
+  "developments": [
+    {
+      "id": 1,
+      "title": "New Ultralight Oxygen Systems for High-Altitude Climbing",
+      "category": "Equipment",
+      "date": "2024-03-15",
+      "author": "Alpine Ascents Research Team",
+      "summary": "Breakthrough oxygen systems weighing 40% less are transforming high-altitude expeditions.",
+      "image": "images/developments/oxygen.png",
+      "alt": "Modern oxygen mask system"
+    },
+    {
+      "id": 2,
+      "title": "AI-Powered Avalanche Forecasting Reaches New Accuracy",
+      "category": "Safety",
+      "date": "2024-02-28",
+      "author": "Dr. Elena Kovács",
+      "summary": "Machine learning models now predict avalanche risk with unprecedented precision.",
+      "image": "images/developments/avalanche.png",
+      "alt": "Avalanche forecasting technology"
+    },
+    {
+      "id": 3,
+      "title": "Sustainable Base Camps: Reducing Mountain Waste",
+      "category": "Environment",
+      "date": "2024-01-20",
+      "author": "M. Rahman",
+      "summary": "New initiatives aim to make high-altitude camps zero-waste and eco-friendly.",
+      "image": "images/developments/sustainable.png",
+      "alt": "Clean mountain base camp"
+    },
+    {
+      "id": 4,
+      "title": "First 5G Connectivity on Everest Base Camp",
+      "category": "Technology",
+      "date": "2023-12-10",
+      "author": "Tech Summit Journal",
+      "summary": "Reliable communication now reaches the world's highest base camps.",
+      "image": "images/developments/tower 5g.png",
+      "alt": "Communication tower in mountains"
+    },
+    {
+      "id": 5,
+      "title": "Advanced Insulation Materials Hit the Market",
+      "category": "Equipment",
+      "date": "2023-11-05",
+      "author": "Alpine Ascents Research Team",
+      "summary": "New insulation offers -40°C protection at a fraction of the weight.",
+      "image": "images/developments/insulation.png",
+      "alt": "Insulated mountaineering jacket"
+    },
+    {
+      "id": 6,
+      "title": "Drone-Assisted Search and Rescue in the Alps",
+      "category": "Safety",
+      "date": "2023-10-18",
+      "author": "RescueTech Europe",
+      "summary": "Thermal drones are slashing rescue times in remote mountain terrain.",
+      "image": "images/developments/drones.png",
+      "alt": "Rescue drone over mountains"
+    },
+    {
+      "id": 7,
+      "title": "New Expedition Route Opens on Nanga Parbat",
+      "category": "Expeditions",
+      "date": "2023-09-22",
+      "author": "M. Bennett",
+      "summary": "A safer, more accessible route has been established on the killer mountain.",
+      "image": "images/developments/route.png",
+      "alt": "Nanga Parbat climbing route"
+    },
+    {
+      "id": 8,
+      "title": "Smart Crampons with Integrated Sensors",
+      "category": "Technology",
+      "date": "2023-08-30",
+      "author": "GearLab Review",
+      "summary": "Sensor-equipped crampons monitor ice conditions and climber fatigue.",
+      "image": "images/developments/crampons.png",
+      "alt": "Smart crampons with sensors"
+    },
+    {
+      "id": 9,
+      "title": "Youth Mountaineering Programs Expand Worldwide",
+      "category": "Community",
+      "date": "2023-07-14",
+      "author": "Global Climbing Network",
+      "summary": "New programs introduce thousands of young people to the mountains.",
+      "image": "images/developments/youth.png",
+      "alt": "Young climbers training"
+    },
+    {
+      "id": 10,
+      "title": "Solar-Powered Communication Relays on 8,000m Peaks",
+      "category": "Technology",
+      "date": "2023-06-01",
+      "author": "Alpine Ascents Research Team",
+      "summary": "Off-grid solar relays provide continuous comms on the highest peaks.",
+      "image": "images/developments/solar.png",
+      "alt": "Solar relay station on mountain"
+    }
+  ]
+}

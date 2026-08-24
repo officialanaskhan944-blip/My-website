@@ -1,0 +1,126 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "title": "Mount Everest at Dawn",
+      "category": "peaks",
+      "image": "images/gallery/Mount Everest at Dawn.png",
+      "alt": "Mount Everest glowing at sunrise",
+      "caption": "The world's highest peak at first light."
+    },
+    {
+      "id": 2,
+      "title": "Ice Climbing on a Frozen Falls",
+      "category": "climbing",
+      "image": "images/gallery/Ice climbing on a Frozen Falls.png",
+      "alt": "Climber ascending a frozen waterfall",
+      "caption": "Technical ice climbing on a frozen cascade."
+    },
+    {
+      "id": 3,
+      "title": "Karakoram Glaciers",
+      "category": "landscapes",
+      "image": "images/gallery/Karakoram Glaciers.png",
+      "alt": "Vast glacier in the Karakoram range",
+      "caption": "The Baltoro Glacier winding through the Karakoram."
+    },
+    {
+      "id": 4,
+      "title": "High Camp Under the Stars",
+      "category": "camping",
+      "image": "images/gallery/High Camp Under the Stars.png",
+      "alt": "Tents at high altitude under a starry sky",
+      "caption": "A high camp illuminated under a star-filled sky."
+    },
+    {
+      "id": 5,
+      "title": "Rock Climbing in the Alps",
+      "category": "climbing",
+      "image": "images/gallery/Rock Climbing in the Alps.png",
+      "alt": "Climber on a steep rock face",
+      "caption": "Limestone rock climbing in the Alps."
+    },
+    {
+      "id": 6,
+      "title": "Ridge Walk",
+      "category": "peaks",
+      "image": "images/gallery/Ridge Walk.jpg",
+      "alt": "Climbers traversing a snowy ridge",
+      "caption": "Traversing an exposed snow ridge."
+    },
+    {
+      "id": 7,
+      "title": "Sunset over the Himalayas",
+      "category": "landscapes",
+      "image": "images/gallery/sunset over the himalayas.png",
+      "alt": "Sunset painting the Himalayan peaks orange",
+      "caption": "Golden hour over the Himalayan range."
+    },
+    {
+      "id": 8,
+      "title": "Bouldering Session",
+      "category": "climbing",
+      "image": "images/gallery/bouldering session.png",
+      "alt": "Climber bouldering on a small rock",
+      "caption": "Powerful moves on a granite boulder."
+    },
+    {
+      "id": 9,
+      "title": "Base Camp Life",
+      "category": "camping",
+      "image": "images/gallery/base camp life.png",
+      "alt": "Colourful tents of a mountain base camp",
+      "caption": "Busy base camp below an eight-thousander."
+    },
+    {
+      "id": 10,
+      "title": "Alpine Lake Reflection",
+      "category": "landscapes",
+      "image": "images/gallery/alpine lake Reflection.jpg",
+      "alt": "Mountain peaks reflected in an alpine lake",
+      "caption": "Pristine alpine lake reflecting the peaks."
+    },
+    {
+      "id": 11,
+      "title": "Snow Cave Shelter",
+      "category": "camping",
+      "image": "images/gallery/snow cave shelter.webp",
+      "alt": "A shelter dug into deep snow",
+      "caption": "An emergency snow cave shelter."
+    },
+    {
+      "id": 12,
+      "title": "The Matterhorn",
+      "category": "peaks",
+      "image": "images/gallery/The Matterhorn.png",
+      "alt": "The Matterhorn's distinctive pyramid shape",
+      "caption": "The iconic Matterhorn in Switzerland."
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Everest: The Summit Climb",
+      "source": "https://www.youtube.com/embed/NhBzhi9jPFs",
+      "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "duration": "4:32",
+      "desc": "A cinematic look at the climb to the top of the world."
+    },
+    {
+      "id": 2,
+      "title": "A Beginner's Guide to Mountaineering",
+      "source": "https://www.youtube.com/embed/dKHgEIRueE4",
+      "thumbnail": "https://images.unsplash.com/photo-1510312305653-8ed496efae75?auto=format&fit=crop&w=1200&q=80",
+      "duration": "1:07:43",
+      "desc": "Everything you need to know to start climbing safely."
+    },
+    {
+      "id": 3,
+      "title": "Nepalese Climbers Make First K2 Winter Summit",
+      "source": "https://www.youtube.com/embed/0PnKsAcTWUo",
+      "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+      "duration": "3:10",
+      "desc": "Inside a winter expedition to the world's most brutal mountains."
+    }
+  ]
+}
